@@ -11,7 +11,7 @@ nav {
 }
 
 h1 {
-    color: #F4E7DD;
+    color: #A3ACE0;
     font-size: 70px;
 }
 
@@ -20,19 +20,20 @@ h1 {
     padding-bottom: 20px;
 
     a {
-        color: #F4E7DD;
+        color: #A3ACE0;
         text-decoration: none;
         font-size: 25px;
         word-spacing: 5px;
     }
 
     a:hover {
-        color: #8A2E67;
+        color: #632162;
+        cursor: pointer;
     }
 }
 
 .tab-selected {
-    color: #8A2E67 !important;
+    color: #632162 !important;
 }
 
 ul {
